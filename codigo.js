@@ -1,4 +1,2 @@
-let numero = 2;
-let numero2 = "Carlos";
-
-alert(numero*numero2);
+let nombre = prompt("dime tu nombre");
+alert("Hola " + nombre);
