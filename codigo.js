@@ -1,2 +1,6 @@
-let nombre = prompt("dime tu nombre");
-alert("Hola " + nombre);
+let numero = 48;
+numero %= 6;
+
+
+document.write(numero) 
+
